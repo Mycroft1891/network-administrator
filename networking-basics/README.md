@@ -4,7 +4,7 @@
 
 > Understanding the foundations of networking is paramount for any IT professional. This course covers the very basics. Professor of computer science Tim Pintello introduces the core networking topologies and implementation examples. He will also explain and compare the OSI and TCP/IP models, and introduce viewers to commonly used network devices, such as NICs, hubs, switches, and routers.
 
-## Index
+## Course Index
 
 1. [Network Topologies](network-topologies.md)
 2. [Network implementation](network-implementation.md)
