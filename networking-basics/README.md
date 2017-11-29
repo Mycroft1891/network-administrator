@@ -9,3 +9,5 @@
 1. [Network Topologies](network-topologies.md)
 2. [Network implementation](network-implementation.md)
 3. [OSI Models](osi-models.md)
+4. [TCP/IP Model](tcp-ip.md)
+5. [Commonly Used Network Devices](network-devices.md)
