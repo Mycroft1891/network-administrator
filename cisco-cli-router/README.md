@@ -1,0 +1,3 @@
+# Learning Cisco CLI Router Configuration [(Lynda Course)](https://www.lynda.com/Cisco-Routers-tutorials/Up-Running-Cisco-CLI-Router-Configuration/370501-2.html)
+
+> Learn how to configure a Cisco router to transmit data between local area networks and connect to the Internet. In this course with Denise Allen-Hoyt you'll find out how to configure a Cisco router via the command-line interface using an out-of-band connection. She'll explain how to access the router's three modes—user EXEC, privileged EXEC, and global configuration—and use commands to configure essential settings. In the final chapter, she'll demonstrate how to verify and save your configuration so when the router is shut down or reloaded the settings are maintained.

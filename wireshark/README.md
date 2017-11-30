@@ -1,0 +1,3 @@
+# Troubleshooting Your Network with Wireshark [(Lynda Course)](https://www.lynda.com/Wireshark-tutorials/Troubleshooting-Your-Network-Wireshark/366447-2.html)
+
+> Learn how to capture and analyze network traffic with Wireshark, a free, open-source packet analysis tool, and identify congestion issues, suspicious activity, and network intrusions. In this course, Lisa Bock reviews the fundamental concepts underlying Wireshark, such as network analysis and the OSI model, and examines some example packet captures so you can start to understand field values and compare normal to abnormal network behaviors. You'll also be introduced to common attack signatures, display and capture filters, and protocols such as HTTP, TCP, DNS, and FTP.

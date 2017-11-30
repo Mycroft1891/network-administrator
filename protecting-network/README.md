@@ -1,0 +1,3 @@
+# Protecting Your Network with Open-Source Software [(Lynda Course)](https://www.lynda.com/Wireshark-tutorials/Protect-Your-Network-Open-Source-Software/186698-2.html)
+
+> Network protection is vital to organizations big and small, but it doesn't have to be an expensive proposition. Learn how to protect your network with open-source tools, and do it completely FREE. Jungwoo Ryoo shows how to set up firewalls, investigate network traffic with a packet analyzer, detect threats and malicious activity with an intrusion-detection system, and enable network logging and monitoring. Start here for a low-cost route to a more secure network.
